@@ -51,10 +51,7 @@
         "http://heimdall-rpc-1.nine-chronicles.com/graphql",
         "http://heimdall-rpc-2.nine-chronicles.com/graphql",
         "http://heimdall-rpc-3.nine-chronicles.com/graphql",
-        "http://heimdall-validator-1.nine-chronicles.com/graphql",
-        "http://heimdall-validator-2.nine-chronicles.com/graphql",
-        "http://heimdall-validator-3.nine-chronicles.com/graphql",
-        "http://heimdall-validator-4.nine-chronicles.com/graphql"
+        "http://heimdall-validator-1.nine-chronicles.com/graphql"
       ],
       "headless.grpc": [
         "http://heimdall-rpc-1.nine-chronicles.com:31238",
