@@ -9,7 +9,7 @@
       "dp.gql": ["http://odin-dp.9c.gg/graphql"],
       "9cscan.rest": ["https://api.9cscan.com"],
       "headless.gql": [
-        "https://9c-main-full-state.nine-chronicles.com/graphql"
+        "http://9c-main-full-state.nine-chronicles.com/graphql"
       ],
       "headless.grpc": [
         "http://odin-rpc-1.nine-chronicles.com:31238",
